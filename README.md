@@ -1,1 +1,1 @@
-# Plant Disease Detection
+# Plant Disease Detection Application using TensorFlow Lite
