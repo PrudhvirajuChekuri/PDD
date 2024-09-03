@@ -1,1 +1,1 @@
-# PDD
+# Plant Disease Detection
